@@ -1,73 +1,50 @@
 # Business Performance Analysis Dashboard
 
-A portfolio project demonstrating retail business analysis using **Excel/Power BI, SQL, and Python**. The included dataset is synthetic, created for learning and demonstration; it is not real company data.
+## Project Overview
+An end-to-end retail sales analysis project designed to evaluate business performance using key performance indicators (KPIs), SQL queries, Python analysis, and an interactive dashboard built in Google Sheets.
 
-## Business objective
-Analyze revenue, profit, order volume, category performance, regional trends, sales channels, and discount patterns to identify business growth opportunities.
+## Objectives
+- Analyze revenue, profit, and profit margin.
+- Compare sales performance across product categories and regions.
+- Identify monthly sales trends and business opportunities.
+- Present insights to support data-driven decision-making.
 
 ## Dataset
-`retail_sales_data.csv` contains 600 synthetic orders from 2025, with fields:
-- Order_ID, Order_Date, Customer_ID
-- Region, Sales_Channel, Category, Product
-- Quantity, Unit_Price, Discount_Rate
-- Revenue, Cost, Profit
+The project uses a retail sales dataset containing 600 orders from January to December 2025, including order dates, regions, sales channels, product categories, quantities, revenue, cost, and profit.
 
-## KPIs
-- **Total Revenue** = sum of Revenue
-- **Total Profit** = sum of Profit
-- **Profit Margin (%)** = Total Profit / Total Revenue × 100
-- **Total Orders** = distinct count of Order_ID
-- **Units Sold** = sum of Quantity
-- **Average Order Value** = Total Revenue / Total Orders
+## Key Performance Indicators
+- **Total Revenue:** 171,385.21
+- **Total Profit:** 54,028.07
+- **Profit Margin:** 31.52%
+- **Total Orders:** 600
+- **Units Sold:** 1,411
+- **Average Order Value:** 285.64
 
-## Project structure
-```text
-business_performance_analysis_dashboard/
-├── retail_sales_data.csv
-├── business_analysis_queries.sql
-├── analysis.py
-├── requirements.txt
-├── power_bi_guide.md
-├── .gitignore
-└── README.md
-```
+## Tools and Technologies
+- Google Sheets — KPI calculations, data analysis, and dashboard visualization
+- SQL — business performance queries
+- Python — data analysis
+- Excel and CSV — dataset storage and processing
 
-## Run the Python analysis
-```bash
-python -m pip install -r requirements.txt
-python analysis.py
-```
-The script validates columns, removes duplicate order IDs, handles invalid numeric rows, and exports monthly/category/region summaries plus a chart image under `outputs/`.
+## Key Insights
+- **Technology** was the strongest-performing product category by revenue and profit.
+- **North** was the highest-performing region by revenue and profit.
+- **November** recorded the highest monthly revenue and profit.
+- **April** had the lowest monthly revenue, while March had the lowest monthly profit.
 
-## Build the Power BI dashboard
-Follow [`power_bi_guide.md`](power_bi_guide.md). Recommended visuals:
-1. KPI cards: Revenue, Profit, Profit Margin, Orders, Units Sold, Average Order Value.
-2. Line chart: Revenue and Profit by month.
-3. Bar chart: Profit by category.
-4. Bar chart: Revenue and Profit by region.
-5. Bar chart: Revenue by sales channel.
-6. Table: Top products by revenue.
-7. Slicers: Order Date, Region, Category, Sales Channel.
+## Business Recommendations
+- Investigate the successful products and sales strategies within the Technology category.
+- Review performance in lower-profit regions and identify opportunities to improve margins.
+- Analyze November's sales drivers to identify practices that could be repeated in other months.
+- Monitor monthly revenue and profit to identify weak periods and improve sales planning.
 
-## SQL analysis
-Open `business_analysis_queries.sql` in SQLite or adapt the queries to your SQL database. Import the CSV as a table named `retail_sales_data`. Note: SQLite's `strftime` is used for monthly grouping; for SQL Server, MySQL, or PostgreSQL, adjust date formatting syntax.
+## Project Files
+- `retail_sales_data.csv` — retail sales dataset
+- `retail_sales_analysis.xlsx` — Excel dataset and analysis
+- `analysis.py` — Python analysis script
+- `business_analysis_queries.sql` — SQL queries
+- `power_bi_guide.md` — dashboard development guide
+- `requirements.txt` — Python dependencies
 
-## Findings and recommendations
-Use the dashboard to validate which categories, regions, and channels contribute the most revenue and profit. Compare profit margin as well as revenue so that high sales are not mistaken for high profitability. Review discount bands before proposing promotions. Avoid treating the synthetic data's results as real-world conclusions.
-
-## GitHub upload
-1. Create a new **public** repository named `business-performance-analysis-dashboard` on GitHub.
-2. Upload the contents of this folder (not just the ZIP file) using **Add file → Upload files**, or use Git:
-   ```bash
-   git init
-   git add .
-   git commit -m "Add business performance analysis dashboard project"
-   git branch -M main
-   git remote add origin https://github.com/YOUR-USERNAME/business-performance-analysis-dashboard.git
-   git push -u origin main
-   ```
-3. Replace `YOUR-USERNAME` with your GitHub username. Do not put passwords or tokens in the repository.
-
-## Resume bullet (edit to match what you actually completed)
-**Business Performance Analysis Dashboard** | Excel, SQL, Power BI
-- Analyzed retail sales data to track revenue, profit margin, product-category performance, and regional trends; designed KPI-focused dashboards to support data-driven business recommendations.
+## Disclaimer
+The dataset contains synthetic retail sales data created for educational and portfolio purposes.
