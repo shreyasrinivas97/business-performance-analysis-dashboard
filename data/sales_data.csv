@@ -1,0 +1,12 @@
+
+Order_ID,Order_Date,Region,Category,Product,Quantity,Unit_Price,Discount_Rate,Revenue,Cost,Profit,Payment_Method
+ORD1001,2025-01-05,South,Electronics,Wireless Earbuds,2,1500,0.10,2700,1800,900,UPI
+ORD1002,2025-01-08,North,Clothing,T-Shirt,4,500,0.05,1900,1200,700,Credit Card
+ORD1003,2025-01-12,West,Home & Kitchen,Cookware Set,1,2000,0,2000,1300,700,Debit Card
+ORD1004,2025-02-03,East,Beauty,Moisturizer,3,400,0.10,1080,720,360,UPI
+ORD1005,2025-02-15,Central,Sports,Yoga Mat,2,800,0.05,1520,1000,520,Cash
+ORD1006,2025-03-02,South,Electronics,Smart Watch,1,4000,0.15,3400,2600,800,Credit Card
+ORD1007,2025-03-11,North,Beauty,Sunscreen,5,300,0.10,1350,900,450,UPI
+ORD1008,2025-03-20,West,Clothing,Jeans,2,1200,0,2400,1500,900,Net Banking
+ORD1009,2025-04-06,East,Sports,Gym Bag,3,700,0.05,1995,1350,645,Debit Card
+ORD1010,2025-04-18,Central,Home & Kitchen,Desk Lamp,2,600,0.10,1080,700,380,UPI
