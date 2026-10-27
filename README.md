@@ -42,8 +42,7 @@ The dashboard can be used to identify higher-revenue regions, compare category p
 
 ## Dashboard Preview
 
-[Business Performance Dashboard](business_analysis_dashboard.png)
-
+![Business Performance Dashboard](Business_analysis_dashboard.png)
 ## Key Results
 
 - Total Revenue: 19,425
