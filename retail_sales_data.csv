@@ -1,0 +1,601 @@
+Order_ID,Order_Date,Customer_ID,Region,Sales_Channel,Category,Product,Quantity,Unit_Price,Discount_Rate,Revenue,Cost,Profit
+ORD00164,2025-01-01,CUST0093,North,Marketplace,Office Supplies,Pen Set,1,11.56,0.1,10.4,7.61,2.79
+ORD00394,2025-01-02,CUST0024,Central,Online,Technology,Laptop,4,1130.16,0.1,4068.58,2399.14,1669.44
+ORD00412,2025-01-03,CUST0046,Central,Online,Technology,Mouse,4,66.12,0.05,251.26,172.66,78.6
+ORD00373,2025-01-04,CUST0017,East,In-Store,Office Supplies,Folders,2,10.42,0.0,20.84,10.77,10.07
+ORD00503,2025-01-04,CUST0166,West,In-Store,Office Supplies,Pen Set,2,9.18,0.0,18.36,9.83,8.53
+ORD00545,2025-01-05,CUST0028,North,In-Store,Technology,Headphones,3,153.77,0.15,392.11,277.93,114.18
+ORD00194,2025-01-05,CUST0012,West,Online,Technology,Headphones,1,51.12,0.0,51.12,31.55,19.57
+ORD00309,2025-01-07,CUST0067,South,In-Store,Furniture,Office Chair,5,137.51,0.05,653.17,513.06,140.11
+ORD00418,2025-01-07,CUST0042,East,Marketplace,Technology,Laptop,1,735.65,0.0,735.65,419.89,315.76
+ORD00097,2025-01-08,CUST0068,East,Marketplace,Furniture,Lamp,6,84.67,0.0,508.02,378.84,129.18
+ORD00513,2025-01-08,CUST0149,West,Marketplace,Furniture,Bookshelf,2,174.86,0.0,349.72,283.06,66.66
+ORD00120,2025-01-09,CUST0122,West,In-Store,Furniture,Bookshelf,3,65.74,0.05,187.36,144.67,42.69
+ORD00246,2025-01-09,CUST0135,East,In-Store,Home & Kitchen,Storage Box,1,15.89,0.0,15.89,8.66,7.23
+ORD00385,2025-01-10,CUST0129,Central,In-Store,Technology,Monitor,4,187.88,0.0,751.52,386.97,364.55
+ORD00224,2025-01-12,CUST0089,North,Marketplace,Home & Kitchen,Coffee Maker,3,153.39,0.05,437.16,227.97,209.19
+ORD00578,2025-01-13,CUST0012,East,In-Store,Home & Kitchen,Water Bottle,1,35.29,0.05,33.53,21.91,11.62
+ORD00302,2025-01-14,CUST0014,South,In-Store,Office Supplies,Pen Set,2,10.77,0.1,19.39,12.5,6.89
+ORD00333,2025-01-14,CUST0121,Central,In-Store,Office Supplies,Folders,4,4.85,0.1,17.46,9.7,7.76
+ORD00084,2025-01-14,CUST0173,East,Marketplace,Technology,Monitor,4,408.57,0.05,1552.57,1312.76,239.81
+ORD00477,2025-01-15,CUST0180,South,In-Store,Home & Kitchen,Water Bottle,2,17.54,0.1,31.57,19.47,12.1
+ORD00584,2025-01-16,CUST0153,North,In-Store,Office Supplies,Stapler,4,20.66,0.05,78.51,50.61,27.9
+ORD00254,2025-01-16,CUST0175,Central,Marketplace,Office Supplies,Stapler,2,17.27,0.15,29.36,21.65,7.71
+ORD00169,2025-01-19,CUST0032,East,In-Store,Furniture,Bookshelf,3,128.18,0.15,326.86,227.98,98.88
+ORD00099,2025-01-19,CUST0112,North,Marketplace,Technology,Monitor,5,309.35,0.2,1237.4,1135.16,102.24
+ORD00573,2025-01-19,CUST0141,North,In-Store,Technology,Keyboard,4,42.86,0.1,154.3,126.5,27.8
+ORD00267,2025-01-19,CUST0171,East,Online,Office Supplies,Folders,5,9.72,0.0,48.6,27.43,21.17
+ORD00096,2025-01-19,CUST0026,Central,In-Store,Furniture,Filing Cabinet,1,282.38,0.0,282.38,216.67,65.71
+ORD00212,2025-01-20,CUST0102,West,Online,Furniture,Lamp,1,85.58,0.15,72.74,70.09,2.65
+ORD00362,2025-01-20,CUST0102,East,Marketplace,Furniture,Bookshelf,2,137.61,0.1,247.7,169.7,78.0
+ORD00449,2025-01-21,CUST0133,East,In-Store,Furniture,Lamp,1,33.54,0.0,33.54,23.72,9.82
+ORD00085,2025-01-21,CUST0112,West,Online,Furniture,Lamp,2,56.52,0.0,113.04,92.58,20.46
+ORD00358,2025-01-22,CUST0153,East,In-Store,Home & Kitchen,Water Bottle,2,44.57,0.2,71.31,61.8,9.51
+ORD00049,2025-01-24,CUST0148,South,Marketplace,Furniture,Lamp,3,63.9,0.05,182.11,149.77,32.34
+ORD00537,2025-01-26,CUST0035,West,Marketplace,Home & Kitchen,Coffee Maker,2,47.34,0.1,85.21,49.64,35.57
+ORD00315,2025-01-27,CUST0120,East,In-Store,Furniture,Desk,6,423.69,0.2,2033.71,1279.8,753.91
+ORD00133,2025-01-27,CUST0109,West,Marketplace,Furniture,Desk,1,404.23,0.0,404.23,254.93,149.3
+ORD00201,2025-01-27,CUST0175,South,Online,Home & Kitchen,Storage Box,3,38.83,0.1,104.84,70.97,33.87
+ORD00022,2025-01-28,CUST0049,Central,In-Store,Technology,Laptop,1,751.97,0.15,639.17,424.52,214.65
+ORD00575,2025-01-30,CUST0177,Central,Marketplace,Technology,Mouse,3,53.78,0.2,129.07,103.97,25.1
+ORD00375,2025-01-30,CUST0067,West,In-Store,Home & Kitchen,Coffee Maker,3,133.71,0.1,361.02,328.58,32.44
+ORD00524,2025-01-30,CUST0133,North,Online,Office Supplies,Folders,1,2.53,0.0,2.53,2.03,0.5
+ORD00225,2025-01-31,CUST0166,West,In-Store,Technology,Headphones,2,31.19,0.1,56.14,46.18,9.96
+ORD00163,2025-02-02,CUST0037,East,In-Store,Technology,Headphones,1,141.36,0.05,134.29,79.48,54.81
+ORD00179,2025-02-03,CUST0093,Central,Online,Office Supplies,Printer Paper,3,21.88,0.15,55.79,45.74,10.05
+ORD00359,2025-02-04,CUST0004,Central,Marketplace,Technology,Headphones,2,133.49,0.15,226.93,175.32,51.61
+ORD00020,2025-02-04,CUST0034,Central,Marketplace,Technology,Keyboard,1,23.46,0.1,21.11,12.97,8.14
+ORD00521,2025-02-04,CUST0009,Central,Marketplace,Technology,Monitor,1,173.59,0.0,173.59,94.63,78.96
+ORD00305,2025-02-04,CUST0074,Central,In-Store,Technology,Keyboard,5,34.61,0.15,147.09,106.48,40.61
+ORD00028,2025-02-04,CUST0159,North,In-Store,Furniture,Lamp,4,24.59,0.0,98.36,67.09,31.27
+ORD00061,2025-02-05,CUST0033,West,Marketplace,Technology,Laptop,1,1162.21,0.0,1162.21,618.07,544.14
+ORD00459,2025-02-05,CUST0130,West,Online,Furniture,Lamp,1,45.84,0.0,45.84,35.4,10.44
+ORD00518,2025-02-05,CUST0164,Central,In-Store,Furniture,Lamp,1,38.65,0.0,38.65,18.56,20.09
+ORD00266,2025-02-07,CUST0178,West,Marketplace,Home & Kitchen,Desk Organizer,2,28.13,0.05,53.45,44.61,8.84
+ORD00435,2025-02-07,CUST0113,West,In-Store,Office Supplies,Folders,3,3.38,0.0,10.14,5.17,4.97
+ORD00348,2025-02-08,CUST0168,South,Marketplace,Technology,Keyboard,2,63.74,0.05,121.11,62.53,58.58
+ORD00470,2025-02-10,CUST0153,North,Online,Technology,Headphones,2,206.48,0.1,371.66,238.44,133.22
+ORD00160,2025-02-11,CUST0038,South,Online,Office Supplies,Pen Set,5,3.42,0.1,15.39,11.99,3.4
+ORD00248,2025-02-11,CUST0180,South,Online,Technology,Laptop,2,753.96,0.05,1432.52,1050.26,382.26
+ORD00331,2025-02-14,CUST0162,Central,Online,Office Supplies,Stapler,1,8.43,0.15,7.17,5.55,1.62
+ORD00257,2025-02-14,CUST0091,Central,Online,Furniture,Lamp,2,50.91,0.0,101.82,49.78,52.04
+ORD00547,2025-02-15,CUST0064,Central,In-Store,Furniture,Desk,2,305.25,0.15,518.92,297.5,221.42
+ORD00159,2025-02-16,CUST0096,South,In-Store,Furniture,Lamp,5,85.77,0.0,428.85,263.65,165.2
+ORD00325,2025-02-16,CUST0045,North,In-Store,Furniture,Bookshelf,1,136.23,0.0,136.23,103.38,32.85
+ORD00149,2025-02-18,CUST0039,East,Online,Home & Kitchen,Coffee Maker,4,71.54,0.2,228.93,196.0,32.93
+ORD00296,2025-02-18,CUST0003,North,Marketplace,Technology,Monitor,1,263.04,0.0,263.04,187.07,75.97
+ORD00127,2025-02-19,CUST0032,West,In-Store,Office Supplies,Pen Set,2,11.35,0.05,21.56,13.44,8.12
+ORD00107,2025-02-19,CUST0076,East,Marketplace,Technology,Keyboard,1,78.72,0.0,78.72,41.3,37.42
+ORD00269,2025-02-20,CUST0115,East,In-Store,Office Supplies,Pen Set,2,10.66,0.05,20.25,14.4,5.85
+ORD00079,2025-02-20,CUST0041,North,In-Store,Furniture,Desk,1,213.21,0.0,213.21,142.36,70.85
+ORD00293,2025-02-20,CUST0110,South,Marketplace,Home & Kitchen,Water Bottle,4,12.6,0.05,47.88,24.2,23.68
+ORD00361,2025-02-21,CUST0147,Central,In-Store,Office Supplies,Folders,4,13.44,0.0,53.76,37.77,15.99
+ORD00395,2025-02-21,CUST0045,North,In-Store,Office Supplies,Pen Set,6,9.85,0.0,59.1,29.37,29.73
+ORD00340,2025-02-21,CUST0164,West,Marketplace,Office Supplies,Printer Paper,6,10.77,0.1,58.16,40.62,17.54
+ORD00312,2025-02-22,CUST0012,West,In-Store,Technology,Monitor,1,342.23,0.15,290.9,165.7,125.2
+ORD00497,2025-02-23,CUST0064,East,In-Store,Office Supplies,Folders,3,4.02,0.15,10.25,7.06,3.19
+ORD00555,2025-02-24,CUST0157,South,Marketplace,Furniture,Desk,6,120.22,0.05,685.25,494.76,190.49
+ORD00526,2025-02-24,CUST0141,West,Marketplace,Office Supplies,Stapler,2,22.56,0.0,45.12,33.81,11.31
+ORD00481,2025-02-24,CUST0139,North,In-Store,Technology,Laptop,3,956.86,0.05,2727.05,2123.78,603.27
+ORD00063,2025-02-25,CUST0051,North,Marketplace,Technology,Keyboard,5,62.34,0.0,311.7,249.39,62.31
+ORD00042,2025-02-25,CUST0099,Central,Online,Home & Kitchen,Coffee Maker,1,140.64,0.05,133.61,91.96,41.65
+ORD00401,2025-02-27,CUST0174,Central,Marketplace,Home & Kitchen,Cookware Set,1,54.42,0.0,54.42,39.16,15.26
+ORD00062,2025-02-28,CUST0030,South,In-Store,Furniture,Lamp,3,70.96,0.0,212.88,146.13,66.75
+ORD00429,2025-02-28,CUST0096,Central,Marketplace,Home & Kitchen,Coffee Maker,1,113.33,0.15,96.33,86.08,10.25
+ORD00390,2025-03-01,CUST0178,North,In-Store,Home & Kitchen,Cookware Set,2,122.95,0.05,233.6,130.83,102.77
+ORD00113,2025-03-01,CUST0179,Central,In-Store,Technology,Monitor,1,386.18,0.05,366.87,273.4,93.47
+ORD00417,2025-03-01,CUST0137,East,In-Store,Office Supplies,Folders,2,8.24,0.1,14.83,10.25,4.58
+ORD00238,2025-03-02,CUST0083,East,In-Store,Home & Kitchen,Storage Box,3,48.26,0.0,144.78,81.28,63.5
+ORD00454,2025-03-02,CUST0054,Central,Online,Furniture,Lamp,3,79.89,0.05,227.69,154.06,73.63
+ORD00324,2025-03-03,CUST0056,East,Online,Technology,Monitor,1,362.28,0.1,326.05,248.21,77.84
+ORD00180,2025-03-04,CUST0120,Central,Online,Furniture,Desk,2,202.33,0.0,404.66,272.97,131.69
+ORD00310,2025-03-06,CUST0017,East,Marketplace,Office Supplies,Notebook,1,9.71,0.1,8.74,5.56,3.18
+ORD00185,2025-03-06,CUST0040,South,Marketplace,Office Supplies,Folders,2,8.94,0.0,17.88,14.31,3.57
+ORD00507,2025-03-06,CUST0080,West,In-Store,Home & Kitchen,Water Bottle,1,16.61,0.05,15.78,9.9,5.88
+ORD00017,2025-03-06,CUST0055,Central,Marketplace,Furniture,Lamp,1,90.75,0.05,86.21,62.28,23.93
+ORD00182,2025-03-06,CUST0142,Central,Online,Office Supplies,Notebook,3,6.5,0.0,19.5,15.18,4.32
+ORD00413,2025-03-07,CUST0108,Central,Marketplace,Technology,Headphones,2,153.22,0.0,306.44,238.92,67.52
+ORD00378,2025-03-07,CUST0023,South,In-Store,Office Supplies,Folders,1,11.92,0.1,10.73,7.08,3.65
+ORD00424,2025-03-08,CUST0011,South,In-Store,Furniture,Filing Cabinet,1,256.12,0.05,243.31,204.58,38.73
+ORD00183,2025-03-08,CUST0043,South,In-Store,Home & Kitchen,Desk Organizer,1,46.25,0.0,46.25,24.61,21.64
+ORD00031,2025-03-09,CUST0078,Central,Marketplace,Office Supplies,Notebook,2,10.79,0.0,21.58,16.48,5.1
+ORD00371,2025-03-09,CUST0165,East,In-Store,Furniture,Filing Cabinet,1,246.19,0.05,233.88,197.11,36.77
+ORD00294,2025-03-09,CUST0022,East,Marketplace,Office Supplies,Pen Set,4,16.12,0.0,64.48,38.85,25.63
+ORD00568,2025-03-09,CUST0140,North,Marketplace,Furniture,Office Chair,1,270.54,0.05,257.01,208.54,48.47
+ORD00387,2025-03-10,CUST0104,North,Online,Office Supplies,Stapler,1,13.98,0.15,11.88,11.07,0.81
+ORD00281,2025-03-11,CUST0107,West,In-Store,Furniture,Lamp,2,92.11,0.05,175.01,131.31,43.7
+ORD00153,2025-03-12,CUST0135,North,Marketplace,Furniture,Office Chair,3,175.78,0.05,500.97,349.9,151.07
+ORD00023,2025-03-13,CUST0141,North,Online,Home & Kitchen,Storage Box,1,25.32,0.15,21.52,15.97,5.55
+ORD00271,2025-03-14,CUST0025,West,Marketplace,Office Supplies,Printer Paper,3,11.2,0.05,31.92,20.11,11.81
+ORD00437,2025-03-15,CUST0011,North,Marketplace,Office Supplies,Printer Paper,1,24.11,0.15,20.49,12.73,7.76
+ORD00174,2025-03-15,CUST0146,North,Marketplace,Home & Kitchen,Water Bottle,1,12.67,0.1,11.4,7.64,3.76
+ORD00458,2025-03-15,CUST0117,Central,Marketplace,Furniture,Filing Cabinet,1,215.12,0.1,193.61,128.32,65.29
+ORD00567,2025-03-16,CUST0161,South,Online,Furniture,Office Chair,1,211.68,0.1,190.51,133.72,56.79
+ORD00571,2025-03-16,CUST0107,South,Online,Technology,Mouse,1,60.28,0.15,51.24,29.94,21.3
+ORD00456,2025-03-17,CUST0145,North,Marketplace,Technology,Monitor,1,197.48,0.2,157.98,135.03,22.95
+ORD00591,2025-03-18,CUST0139,East,Marketplace,Furniture,Bookshelf,5,78.46,0.05,372.68,201.96,170.72
+ORD00222,2025-03-18,CUST0126,North,Marketplace,Furniture,Bookshelf,2,230.17,0.1,414.31,333.17,81.14
+ORD00162,2025-03-18,CUST0164,Central,In-Store,Home & Kitchen,Water Bottle,1,36.72,0.0,36.72,20.6,16.12
+ORD00550,2025-03-19,CUST0157,South,In-Store,Office Supplies,Stapler,1,21.42,0.0,21.42,17.28,4.14
+ORD00381,2025-03-19,CUST0037,East,Marketplace,Furniture,Desk,6,243.64,0.15,1242.56,1192.07,50.49
+ORD00175,2025-03-20,CUST0102,East,Marketplace,Home & Kitchen,Coffee Maker,3,88.94,0.05,253.48,176.11,77.37
+ORD00012,2025-03-20,CUST0065,Central,Online,Furniture,Lamp,2,62.71,0.05,119.15,80.16,38.99
+ORD00004,2025-03-21,CUST0068,North,Marketplace,Furniture,Bookshelf,2,75.95,0.0,151.9,90.68,61.22
+ORD00307,2025-03-21,CUST0080,West,Marketplace,Office Supplies,Stapler,3,19.66,0.1,53.08,41.21,11.87
+ORD00039,2025-03-23,CUST0118,East,In-Store,Technology,Headphones,4,195.07,0.0,780.28,591.17,189.11
+ORD00090,2025-03-23,CUST0030,West,Online,Office Supplies,Folders,2,2.18,0.0,4.36,3.34,1.02
+ORD00566,2025-03-23,CUST0169,South,Online,Home & Kitchen,Desk Organizer,3,23.99,0.15,61.17,48.38,12.79
+ORD00494,2025-03-24,CUST0102,East,In-Store,Office Supplies,Pen Set,3,7.7,0.1,20.79,15.84,4.95
+ORD00370,2025-03-25,CUST0006,North,In-Store,Furniture,Desk,3,362.48,0.0,1087.44,673.38,414.06
+ORD00025,2025-03-26,CUST0109,Central,Marketplace,Home & Kitchen,Water Bottle,1,44.46,0.1,40.01,28.22,11.79
+ORD00058,2025-03-26,CUST0170,North,Online,Home & Kitchen,Storage Box,2,63.94,0.15,108.7,87.12,21.58
+ORD00082,2025-03-26,CUST0177,East,Marketplace,Office Supplies,Folders,2,11.74,0.0,23.48,12.26,11.22
+ORD00273,2025-03-26,CUST0060,West,Marketplace,Furniture,Filing Cabinet,1,108.38,0.05,102.96,87.34,15.62
+ORD00280,2025-03-27,CUST0092,North,In-Store,Home & Kitchen,Coffee Maker,1,55.34,0.05,52.57,27.57,25.0
+ORD00496,2025-03-27,CUST0102,Central,Online,Home & Kitchen,Water Bottle,5,11.54,0.05,54.81,28.75,26.06
+ORD00282,2025-03-27,CUST0138,East,Online,Technology,Mouse,3,11.85,0.0,35.55,20.39,15.16
+ORD00386,2025-03-27,CUST0087,West,Marketplace,Technology,Laptop,1,673.65,0.1,606.28,459.95,146.33
+ORD00383,2025-03-28,CUST0110,West,In-Store,Furniture,Lamp,3,77.82,0.0,233.46,146.49,86.97
+ORD00167,2025-03-31,CUST0118,North,In-Store,Home & Kitchen,Cookware Set,4,174.51,0.0,698.04,519.28,178.76
+ORD00337,2025-03-31,CUST0001,East,Marketplace,Home & Kitchen,Water Bottle,1,11.34,0.0,11.34,7.47,3.87
+ORD00038,2025-04-01,CUST0172,South,In-Store,Home & Kitchen,Water Bottle,5,14.64,0.1,65.88,45.38,20.5
+ORD00051,2025-04-01,CUST0119,Central,Marketplace,Home & Kitchen,Water Bottle,5,28.62,0.0,143.1,75.18,67.92
+ORD00227,2025-04-02,CUST0077,West,Marketplace,Home & Kitchen,Desk Organizer,6,13.35,0.1,72.09,59.04,13.05
+ORD00433,2025-04-02,CUST0116,West,In-Store,Office Supplies,Folders,4,2.92,0.15,9.93,7.23,2.7
+ORD00382,2025-04-03,CUST0116,East,Online,Technology,Headphones,6,89.86,0.0,539.16,269.43,269.73
+ORD00487,2025-04-03,CUST0143,West,In-Store,Furniture,Filing Cabinet,4,220.92,0.1,795.31,665.76,129.55
+ORD00519,2025-04-05,CUST0169,Central,In-Store,Technology,Mouse,3,61.41,0.0,184.23,133.59,50.64
+ORD00274,2025-04-05,CUST0110,West,Online,Furniture,Lamp,3,46.65,0.15,118.96,88.57,30.39
+ORD00215,2025-04-06,CUST0164,West,In-Store,Technology,Keyboard,2,78.89,0.1,142.0,85.15,56.85
+ORD00237,2025-04-07,CUST0055,South,Marketplace,Furniture,Lamp,5,31.71,0.0,158.55,125.11,33.44
+ORD00520,2025-04-08,CUST0025,Central,Marketplace,Home & Kitchen,Desk Organizer,1,14.47,0.0,14.47,8.53,5.94
+ORD00516,2025-04-09,CUST0113,Central,In-Store,Technology,Headphones,1,94.84,0.15,80.61,61.17,19.44
+ORD00367,2025-04-09,CUST0071,East,In-Store,Furniture,Office Chair,2,162.35,0.15,276.0,233.65,42.35
+ORD00488,2025-04-11,CUST0162,Central,Marketplace,Furniture,Desk,1,294.46,0.05,279.74,154.8,124.94
+ORD00261,2025-04-11,CUST0098,East,In-Store,Home & Kitchen,Water Bottle,1,13.01,0.0,13.01,9.97,3.04
+ORD00595,2025-04-12,CUST0025,West,In-Store,Technology,Headphones,1,135.72,0.1,122.15,97.38,24.77
+ORD00538,2025-04-12,CUST0064,South,Online,Home & Kitchen,Cookware Set,1,178.71,0.05,169.77,130.48,39.29
+ORD00480,2025-04-13,CUST0159,East,Online,Furniture,Desk,1,450.37,0.0,450.37,254.41,195.96
+ORD00211,2025-04-13,CUST0060,Central,Marketplace,Office Supplies,Printer Paper,1,9.99,0.1,8.99,7.01,1.98
+ORD00168,2025-04-14,CUST0140,West,In-Store,Technology,Monitor,1,385.74,0.0,385.74,237.38,148.36
+ORD00338,2025-04-14,CUST0006,South,Marketplace,Furniture,Bookshelf,5,201.97,0.15,858.37,595.83,262.54
+ORD00187,2025-04-18,CUST0078,West,Online,Home & Kitchen,Desk Organizer,2,34.84,0.1,62.71,40.31,22.4
+ORD00446,2025-04-19,CUST0039,East,In-Store,Technology,Mouse,4,25.64,0.05,97.43,72.03,25.4
+ORD00427,2025-04-20,CUST0144,North,Online,Office Supplies,Printer Paper,1,11.58,0.1,10.42,7.65,2.77
+ORD00073,2025-04-21,CUST0026,South,In-Store,Home & Kitchen,Coffee Maker,6,140.06,0.05,798.34,484.23,314.11
+ORD00125,2025-04-21,CUST0025,East,In-Store,Home & Kitchen,Cookware Set,2,227.06,0.1,408.71,279.54,129.17
+ORD00426,2025-04-23,CUST0024,East,Online,Furniture,Filing Cabinet,2,85.0,0.0,170.0,112.64,57.36
+ORD00003,2025-04-23,CUST0109,East,In-Store,Home & Kitchen,Desk Organizer,4,19.68,0.1,70.85,42.06,28.79
+ORD00504,2025-04-23,CUST0178,East,In-Store,Office Supplies,Notebook,1,6.22,0.1,5.6,4.91,0.69
+ORD00530,2025-04-24,CUST0142,Central,Marketplace,Furniture,Bookshelf,4,59.45,0.1,214.02,136.46,77.56
+ORD00452,2025-04-25,CUST0002,Central,Online,Home & Kitchen,Coffee Maker,2,153.5,0.1,276.3,239.96,36.34
+ORD00447,2025-04-25,CUST0170,South,Marketplace,Office Supplies,Pen Set,2,9.97,0.0,19.94,12.98,6.96
+ORD00388,2025-04-25,CUST0167,North,In-Store,Furniture,Desk,2,396.29,0.0,792.58,479.23,313.35
+ORD00379,2025-04-25,CUST0031,West,Online,Office Supplies,Stapler,1,24.7,0.0,24.7,14.33,10.37
+ORD00019,2025-04-26,CUST0162,North,Online,Technology,Keyboard,2,19.62,0.05,37.28,18.93,18.35
+ORD00354,2025-04-26,CUST0089,Central,In-Store,Office Supplies,Folders,3,2.8,0.1,7.56,4.28,3.28
+ORD00074,2025-04-27,CUST0014,Central,In-Store,Office Supplies,Pen Set,3,7.53,0.0,22.59,11.19,11.4
+ORD00040,2025-04-27,CUST0072,East,Marketplace,Furniture,Office Chair,2,281.41,0.0,562.82,283.44,279.38
+ORD00106,2025-04-28,CUST0169,South,Marketplace,Office Supplies,Pen Set,3,12.55,0.1,33.89,27.3,6.59
+ORD00468,2025-04-28,CUST0158,North,Online,Home & Kitchen,Storage Box,2,15.52,0.1,27.94,23.35,4.59
+ORD00525,2025-04-29,CUST0143,Central,In-Store,Home & Kitchen,Storage Box,3,20.62,0.05,58.77,49.62,9.15
+ORD00556,2025-04-29,CUST0155,West,Marketplace,Furniture,Office Chair,3,194.19,0.05,553.44,379.13,174.31
+ORD00356,2025-05-01,CUST0133,Central,Marketplace,Home & Kitchen,Coffee Maker,5,46.45,0.1,209.03,151.13,57.9
+ORD00363,2025-05-02,CUST0078,East,In-Store,Technology,Headphones,4,204.56,0.0,818.24,620.15,198.09
+ORD00308,2025-05-03,CUST0080,South,Online,Technology,Monitor,2,145.86,0.05,277.13,200.41,76.72
+ORD00551,2025-05-04,CUST0053,South,Marketplace,Furniture,Lamp,5,92.64,0.0,463.2,307.73,155.47
+ORD00510,2025-05-07,CUST0122,West,Marketplace,Technology,Monitor,3,258.25,0.05,736.01,630.58,105.43
+ORD00443,2025-05-07,CUST0123,West,In-Store,Furniture,Lamp,2,37.13,0.1,66.83,44.02,22.81
+ORD00414,2025-05-08,CUST0106,Central,Marketplace,Office Supplies,Stapler,6,29.09,0.05,165.81,91.69,74.12
+ORD00345,2025-05-08,CUST0108,South,In-Store,Technology,Keyboard,1,37.76,0.0,37.76,23.08,14.68
+ORD00419,2025-05-09,CUST0116,North,Marketplace,Furniture,Office Chair,1,290.27,0.1,261.24,142.52,118.72
+ORD00119,2025-05-09,CUST0061,Central,In-Store,Furniture,Office Chair,1,281.71,0.0,281.71,210.89,70.82
+ORD00034,2025-05-09,CUST0034,East,Online,Technology,Laptop,4,925.71,0.0,3702.84,2197.3,1505.54
+ORD00076,2025-05-10,CUST0014,South,Online,Home & Kitchen,Water Bottle,2,38.42,0.0,76.84,53.33,23.51
+ORD00490,2025-05-11,CUST0066,East,Online,Home & Kitchen,Water Bottle,1,24.64,0.0,24.64,16.52,8.12
+ORD00043,2025-05-11,CUST0172,South,In-Store,Technology,Headphones,5,25.33,0.05,120.32,91.77,28.55
+ORD00532,2025-05-12,CUST0084,West,Online,Office Supplies,Notebook,2,7.7,0.0,15.4,7.8,7.6
+ORD00475,2025-05-14,CUST0030,Central,In-Store,Furniture,Lamp,2,55.5,0.05,105.45,66.11,39.34
+ORD00014,2025-05-15,CUST0156,South,Online,Furniture,Filing Cabinet,4,270.78,0.0,1083.12,755.2,327.92
+ORD00445,2025-05-15,CUST0149,West,Marketplace,Technology,Laptop,4,1119.08,0.1,4028.69,3385.43,643.26
+ORD00011,2025-05-15,CUST0024,North,Online,Home & Kitchen,Desk Organizer,1,24.77,0.2,19.82,16.18,3.64
+ORD00451,2025-05-15,CUST0133,East,In-Store,Furniture,Lamp,2,67.29,0.1,121.12,102.83,18.29
+ORD00089,2025-05-17,CUST0156,South,Marketplace,Furniture,Bookshelf,3,144.81,0.0,434.43,352.27,82.16
+ORD00247,2025-05-17,CUST0058,East,Marketplace,Home & Kitchen,Water Bottle,2,21.8,0.05,41.42,35.61,5.81
+ORD00539,2025-05-17,CUST0094,East,Online,Home & Kitchen,Coffee Maker,2,134.29,0.0,268.58,166.69,101.89
+ORD00558,2025-05-19,CUST0113,Central,In-Store,Home & Kitchen,Storage Box,6,50.83,0.1,274.48,153.25,121.23
+ORD00506,2025-05-20,CUST0027,East,In-Store,Home & Kitchen,Storage Box,1,27.64,0.2,22.11,13.48,8.63
+ORD00549,2025-05-22,CUST0143,East,Online,Technology,Keyboard,4,85.66,0.1,308.38,167.9,140.48
+ORD00176,2025-05-23,CUST0031,East,In-Store,Furniture,Office Chair,1,97.51,0.05,92.63,77.09,15.54
+ORD00287,2025-05-24,CUST0132,North,Online,Furniture,Bookshelf,1,255.7,0.05,242.91,205.54,37.37
+ORD00148,2025-05-25,CUST0086,North,In-Store,Home & Kitchen,Cookware Set,3,203.77,0.0,611.31,424.56,186.75
+ORD00350,2025-05-25,CUST0014,East,Online,Office Supplies,Pen Set,2,4.44,0.05,8.44,5.74,2.7
+ORD00292,2025-05-26,CUST0175,North,Online,Office Supplies,Folders,2,9.51,0.05,18.07,11.35,6.72
+ORD00492,2025-05-26,CUST0098,Central,In-Store,Office Supplies,Printer Paper,2,18.14,0.1,32.65,28.39,4.26
+ORD00161,2025-05-27,CUST0005,East,Online,Home & Kitchen,Storage Box,2,51.74,0.05,98.31,81.54,16.77
+ORD00562,2025-05-27,CUST0037,West,Marketplace,Home & Kitchen,Storage Box,2,33.24,0.0,66.48,43.6,22.88
+ORD00103,2025-05-28,CUST0109,East,In-Store,Furniture,Office Chair,2,218.1,0.05,414.39,304.14,110.25
+ORD00576,2025-05-28,CUST0034,Central,Marketplace,Home & Kitchen,Desk Organizer,1,43.61,0.05,41.43,30.17,11.26
+ORD00416,2025-05-29,CUST0178,East,Marketplace,Office Supplies,Pen Set,3,17.72,0.2,42.53,34.62,7.91
+ORD00213,2025-05-29,CUST0117,Central,Marketplace,Technology,Laptop,2,673.79,0.15,1145.44,800.35,345.09
+ORD00231,2025-05-29,CUST0078,South,Marketplace,Furniture,Filing Cabinet,2,140.16,0.1,252.29,165.12,87.17
+ORD00136,2025-05-29,CUST0059,Central,Marketplace,Office Supplies,Notebook,3,2.08,0.0,6.24,3.8,2.44
+ORD00265,2025-05-30,CUST0040,West,In-Store,Technology,Headphones,1,156.23,0.0,156.23,88.41,67.82
+ORD00352,2025-05-30,CUST0170,East,Online,Technology,Headphones,1,189.53,0.0,189.53,122.49,67.04
+ORD00409,2025-05-30,CUST0105,North,In-Store,Office Supplies,Notebook,1,2.46,0.0,2.46,1.78,0.68
+ORD00124,2025-05-31,CUST0167,Central,Marketplace,Home & Kitchen,Desk Organizer,1,33.43,0.1,30.09,25.74,4.35
+ORD00172,2025-06-01,CUST0011,East,Marketplace,Office Supplies,Stapler,2,20.07,0.1,36.13,24.06,12.07
+ORD00219,2025-06-01,CUST0156,East,In-Store,Office Supplies,Folders,5,4.87,0.05,23.13,15.45,7.68
+ORD00512,2025-06-02,CUST0163,West,In-Store,Furniture,Bookshelf,4,236.94,0.0,947.76,491.31,456.45
+ORD00234,2025-06-03,CUST0037,West,Online,Home & Kitchen,Storage Box,2,51.49,0.15,87.53,59.96,27.57
+ORD00104,2025-06-04,CUST0076,East,Online,Furniture,Lamp,1,83.27,0.0,83.27,50.13,33.14
+ORD00586,2025-06-04,CUST0130,North,In-Store,Furniture,Office Chair,1,198.52,0.0,198.52,101.54,96.98
+ORD00535,2025-06-06,CUST0013,West,In-Store,Technology,Keyboard,1,59.57,0.05,56.59,33.07,23.52
+ORD00072,2025-06-06,CUST0177,South,Online,Office Supplies,Pen Set,1,4.81,0.0,4.81,3.19,1.62
+ORD00501,2025-06-07,CUST0035,East,In-Store,Office Supplies,Stapler,1,11.5,0.0,11.5,8.71,2.79
+ORD00342,2025-06-07,CUST0146,North,Online,Office Supplies,Pen Set,1,5.67,0.1,5.1,3.83,1.27
+ORD00156,2025-06-08,CUST0073,West,Marketplace,Home & Kitchen,Storage Box,5,30.23,0.2,120.92,96.28,24.64
+ORD00511,2025-06-09,CUST0065,West,Marketplace,Office Supplies,Pen Set,1,12.44,0.15,10.57,8.17,2.4
+ORD00590,2025-06-09,CUST0172,North,In-Store,Furniture,Bookshelf,1,96.11,0.05,91.3,71.39,19.91
+ORD00126,2025-06-10,CUST0022,North,In-Store,Office Supplies,Printer Paper,3,24.03,0.05,68.49,36.84,31.65
+ORD00406,2025-06-11,CUST0141,North,Online,Technology,Headphones,1,170.32,0.0,170.32,83.83,86.49
+ORD00434,2025-06-11,CUST0150,North,Marketplace,Technology,Headphones,2,156.29,0.1,281.32,215.75,65.57
+ORD00010,2025-06-11,CUST0064,Central,Marketplace,Furniture,Lamp,5,46.65,0.05,221.59,132.97,88.62
+ORD00251,2025-06-11,CUST0020,East,Online,Technology,Monitor,3,296.11,0.1,799.5,546.7,252.8
+ORD00489,2025-06-11,CUST0042,North,Online,Home & Kitchen,Coffee Maker,4,71.39,0.0,285.56,146.68,138.88
+ORD00301,2025-06-11,CUST0156,East,Marketplace,Furniture,Desk,1,218.02,0.05,207.12,149.13,57.99
+ORD00030,2025-06-11,CUST0055,Central,In-Store,Technology,Laptop,6,793.71,0.2,3809.81,2404.51,1405.3
+ORD00341,2025-06-12,CUST0151,South,In-Store,Furniture,Filing Cabinet,5,222.58,0.1,1001.61,618.66,382.95
+ORD00553,2025-06-12,CUST0038,North,In-Store,Technology,Mouse,3,41.98,0.0,125.94,96.4,29.54
+ORD00263,2025-06-13,CUST0101,East,Online,Office Supplies,Stapler,3,29.19,0.0,87.57,50.38,37.19
+ORD00344,2025-06-13,CUST0003,East,Online,Furniture,Office Chair,3,328.28,0.1,886.36,585.15,301.21
+ORD00592,2025-06-13,CUST0080,Central,In-Store,Office Supplies,Pen Set,4,17.15,0.05,65.17,36.92,28.25
+ORD00314,2025-06-14,CUST0031,Central,Marketplace,Furniture,Lamp,1,88.27,0.1,79.44,59.52,19.92
+ORD00540,2025-06-14,CUST0114,Central,Online,Office Supplies,Folders,3,10.52,0.0,31.56,18.9,12.66
+ORD00047,2025-06-14,CUST0044,North,In-Store,Home & Kitchen,Cookware Set,1,135.64,0.05,128.86,106.67,22.19
+ORD00123,2025-06-14,CUST0098,Central,Marketplace,Furniture,Office Chair,3,126.6,0.05,360.81,274.27,86.54
+ORD00564,2025-06-15,CUST0117,North,In-Store,Home & Kitchen,Water Bottle,2,14.62,0.1,26.32,16.04,10.28
+ORD00565,2025-06-15,CUST0099,Central,Marketplace,Furniture,Office Chair,3,116.45,0.1,314.42,177.82,136.6
+ORD00580,2025-06-15,CUST0008,South,Online,Technology,Laptop,2,964.38,0.1,1735.88,1329.76,406.12
+ORD00276,2025-06-16,CUST0081,Central,In-Store,Furniture,Lamp,3,24.12,0.05,68.74,58.5,10.24
+ORD00316,2025-06-17,CUST0160,South,In-Store,Technology,Mouse,2,37.4,0.0,74.8,55.86,18.94
+ORD00408,2025-06-19,CUST0088,East,Marketplace,Home & Kitchen,Coffee Maker,1,138.81,0.1,124.93,77.09,47.84
+ORD00581,2025-06-19,CUST0161,West,Marketplace,Office Supplies,Stapler,3,27.9,0.1,75.33,53.88,21.45
+ORD00548,2025-06-20,CUST0078,South,Marketplace,Home & Kitchen,Cookware Set,1,197.6,0.1,177.84,118.72,59.12
+ORD00262,2025-06-21,CUST0081,South,In-Store,Home & Kitchen,Desk Organizer,1,13.72,0.15,11.66,7.52,4.14
+ORD00582,2025-06-21,CUST0174,East,Marketplace,Home & Kitchen,Cookware Set,1,235.2,0.05,223.44,158.07,65.37
+ORD00154,2025-06-22,CUST0043,West,Online,Furniture,Filing Cabinet,1,152.88,0.1,137.59,113.46,24.13
+ORD00527,2025-06-22,CUST0084,East,In-Store,Furniture,Filing Cabinet,2,289.66,0.0,579.32,340.15,239.17
+ORD00140,2025-06-23,CUST0050,East,In-Store,Furniture,Bookshelf,1,214.72,0.1,193.25,141.8,51.45
+ORD00600,2025-06-24,CUST0178,South,Online,Furniture,Filing Cabinet,6,164.85,0.05,939.64,589.85,349.79
+ORD00093,2025-06-24,CUST0126,South,In-Store,Office Supplies,Notebook,1,4.83,0.05,4.59,3.96,0.63
+ORD00297,2025-06-25,CUST0027,North,In-Store,Technology,Headphones,2,160.34,0.0,320.68,163.67,157.01
+ORD00486,2025-06-25,CUST0103,East,In-Store,Office Supplies,Pen Set,1,10.48,0.1,9.43,6.36,3.07
+ORD00166,2025-06-26,CUST0140,East,Marketplace,Furniture,Office Chair,3,313.74,0.0,941.22,465.97,475.25
+ORD00253,2025-06-27,CUST0153,West,In-Store,Technology,Laptop,4,777.82,0.0,3111.28,2306.9,804.38
+ORD00598,2025-06-28,CUST0167,North,In-Store,Furniture,Filing Cabinet,4,92.65,0.1,333.54,218.95,114.59
+ORD00285,2025-06-28,CUST0151,East,Marketplace,Technology,Headphones,1,193.73,0.1,174.36,106.81,67.55
+ORD00131,2025-06-29,CUST0163,North,Online,Technology,Monitor,2,380.96,0.0,761.92,402.47,359.45
+ORD00369,2025-06-29,CUST0008,West,Online,Office Supplies,Pen Set,1,15.56,0.1,14.0,7.95,6.05
+ORD00441,2025-07-02,CUST0116,East,Marketplace,Furniture,Desk,2,149.02,0.15,253.33,175.26,78.07
+ORD00515,2025-07-02,CUST0166,East,In-Store,Furniture,Filing Cabinet,1,244.12,0.0,244.12,198.66,45.46
+ORD00397,2025-07-03,CUST0030,West,In-Store,Home & Kitchen,Desk Organizer,3,19.27,0.0,57.81,34.49,23.32
+ORD00116,2025-07-03,CUST0024,South,Marketplace,Technology,Headphones,6,78.8,0.15,401.88,359.43,42.45
+ORD00393,2025-07-03,CUST0124,East,Online,Home & Kitchen,Coffee Maker,2,58.25,0.15,99.02,83.18,15.84
+ORD00444,2025-07-03,CUST0036,Central,Online,Office Supplies,Stapler,1,18.79,0.05,17.85,14.4,3.45
+ORD00396,2025-07-04,CUST0036,South,In-Store,Office Supplies,Stapler,1,23.46,0.1,21.11,11.63,9.48
+ORD00218,2025-07-04,CUST0080,North,Marketplace,Furniture,Office Chair,2,283.66,0.0,567.32,404.65,162.67
+ORD00139,2025-07-05,CUST0102,East,Marketplace,Technology,Headphones,1,189.67,0.05,180.19,124.83,55.36
+ORD00495,2025-07-05,CUST0065,North,Online,Home & Kitchen,Cookware Set,4,79.3,0.0,317.2,177.56,139.64
+ORD00016,2025-07-05,CUST0125,North,Marketplace,Office Supplies,Pen Set,4,3.87,0.15,13.16,7.88,5.28
+ORD00066,2025-07-05,CUST0138,West,In-Store,Home & Kitchen,Storage Box,3,33.95,0.2,81.48,58.24,23.24
+ORD00110,2025-07-07,CUST0173,East,Marketplace,Technology,Headphones,2,27.71,0.05,52.65,39.28,13.37
+ORD00298,2025-07-08,CUST0174,South,Online,Office Supplies,Pen Set,4,8.74,0.15,29.72,24.41,5.31
+ORD00317,2025-07-08,CUST0105,North,Online,Home & Kitchen,Storage Box,2,50.29,0.1,90.52,53.43,37.09
+ORD00236,2025-07-09,CUST0155,North,Online,Technology,Mouse,1,53.48,0.0,53.48,37.92,15.56
+ORD00467,2025-07-09,CUST0036,North,Marketplace,Home & Kitchen,Coffee Maker,2,178.33,0.1,320.99,219.48,101.51
+ORD00115,2025-07-09,CUST0095,Central,Marketplace,Furniture,Lamp,1,50.58,0.0,50.58,41.15,9.43
+ORD00462,2025-07-09,CUST0090,Central,Marketplace,Technology,Mouse,5,35.74,0.05,169.77,132.48,37.29
+ORD00240,2025-07-09,CUST0142,Central,Marketplace,Office Supplies,Stapler,4,6.14,0.1,22.1,11.92,10.18
+ORD00482,2025-07-10,CUST0047,Central,In-Store,Office Supplies,Stapler,4,27.45,0.05,104.31,62.96,41.35
+ORD00101,2025-07-11,CUST0045,North,Marketplace,Home & Kitchen,Storage Box,2,23.43,0.1,42.17,25.36,16.81
+ORD00015,2025-07-11,CUST0126,North,Online,Furniture,Filing Cabinet,5,279.77,0.15,1189.02,956.31,232.71
+ORD00372,2025-07-12,CUST0102,Central,Online,Office Supplies,Stapler,2,11.3,0.1,20.34,17.18,3.16
+ORD00151,2025-07-12,CUST0135,North,Marketplace,Office Supplies,Pen Set,4,13.05,0.1,46.98,37.22,9.76
+ORD00255,2025-07-14,CUST0098,South,Marketplace,Technology,Mouse,1,27.72,0.0,27.72,15.83,11.89
+ORD00400,2025-07-14,CUST0034,West,In-Store,Office Supplies,Folders,3,2.37,0.1,6.4,5.77,0.63
+ORD00060,2025-07-14,CUST0090,South,Marketplace,Office Supplies,Stapler,1,11.31,0.0,11.31,7.5,3.81
+ORD00078,2025-07-14,CUST0016,Central,Marketplace,Home & Kitchen,Cookware Set,2,105.96,0.05,201.32,142.69,58.63
+ORD00111,2025-07-15,CUST0084,Central,Online,Office Supplies,Notebook,2,8.75,0.05,16.62,14.01,2.61
+ORD00226,2025-07-15,CUST0168,East,Online,Home & Kitchen,Cookware Set,3,122.01,0.1,329.43,242.81,86.62
+ORD00332,2025-07-15,CUST0100,East,Online,Office Supplies,Stapler,2,18.61,0.15,31.64,24.22,7.42
+ORD00102,2025-07-15,CUST0066,North,In-Store,Furniture,Lamp,1,88.03,0.05,83.63,49.86,33.77
+ORD00217,2025-07-16,CUST0003,East,Marketplace,Furniture,Lamp,5,75.3,0.0,376.5,273.26,103.24
+ORD00313,2025-07-16,CUST0168,West,Online,Furniture,Desk,4,473.15,0.05,1797.97,1496.56,301.41
+ORD00095,2025-07-16,CUST0099,South,In-Store,Furniture,Lamp,3,18.49,0.1,49.92,41.93,7.99
+ORD00303,2025-07-17,CUST0093,East,Online,Technology,Monitor,2,269.87,0.05,512.75,438.49,74.26
+ORD00421,2025-07-18,CUST0114,South,Marketplace,Home & Kitchen,Coffee Maker,1,175.05,0.1,157.55,96.11,61.44
+ORD00335,2025-07-18,CUST0152,North,Marketplace,Office Supplies,Pen Set,2,5.64,0.1,10.15,8.09,2.06
+ORD00376,2025-07-18,CUST0057,Central,Marketplace,Technology,Mouse,2,52.48,0.0,104.96,76.31,28.65
+ORD00304,2025-07-18,CUST0019,North,Marketplace,Home & Kitchen,Coffee Maker,1,114.22,0.05,108.51,93.17,15.34
+ORD00522,2025-07-18,CUST0019,North,Online,Home & Kitchen,Desk Organizer,2,34.21,0.0,68.42,37.98,30.44
+ORD00256,2025-07-19,CUST0070,North,Online,Office Supplies,Printer Paper,1,6.24,0.0,6.24,3.76,2.48
+ORD00469,2025-07-19,CUST0068,South,In-Store,Technology,Laptop,2,1067.44,0.05,2028.14,1088.72,939.42
+ORD00594,2025-07-20,CUST0092,East,In-Store,Furniture,Filing Cabinet,3,266.08,0.1,718.42,504.16,214.26
+ORD00484,2025-07-21,CUST0004,South,In-Store,Furniture,Lamp,3,93.12,0.05,265.39,199.56,65.83
+ORD00289,2025-07-21,CUST0163,North,In-Store,Home & Kitchen,Storage Box,1,41.76,0.0,41.76,26.46,15.3
+ORD00561,2025-07-22,CUST0113,West,In-Store,Technology,Mouse,3,33.24,0.2,79.78,54.3,25.48
+ORD00483,2025-07-23,CUST0009,Central,In-Store,Furniture,Filing Cabinet,2,98.21,0.05,186.6,157.03,29.57
+ORD00170,2025-07-24,CUST0133,East,Online,Home & Kitchen,Cookware Set,1,114.5,0.1,103.05,69.26,33.79
+ORD00473,2025-07-24,CUST0024,Central,In-Store,Office Supplies,Stapler,1,15.14,0.0,15.14,10.89,4.25
+ORD00327,2025-07-25,CUST0017,South,Marketplace,Office Supplies,Notebook,1,7.82,0.1,7.04,3.81,3.23
+ORD00083,2025-07-26,CUST0083,Central,In-Store,Office Supplies,Folders,2,9.02,0.05,17.14,14.11,3.03
+ORD00045,2025-07-29,CUST0098,South,Marketplace,Office Supplies,Stapler,2,22.43,0.0,44.86,31.67,13.19
+ORD00464,2025-07-29,CUST0134,North,In-Store,Office Supplies,Pen Set,3,3.08,0.0,9.24,6.08,3.16
+ORD00491,2025-07-30,CUST0167,Central,Online,Technology,Keyboard,6,84.79,0.0,508.74,343.81,164.93
+ORD00155,2025-07-30,CUST0060,Central,Online,Office Supplies,Pen Set,2,17.54,0.1,31.57,26.19,5.38
+ORD00288,2025-07-30,CUST0083,South,Marketplace,Technology,Keyboard,1,84.76,0.15,72.05,47.88,24.17
+ORD00478,2025-07-31,CUST0103,East,Online,Office Supplies,Folders,3,8.96,0.0,26.88,15.53,11.35
+ORD00554,2025-07-31,CUST0071,South,Online,Home & Kitchen,Coffee Maker,5,99.24,0.15,421.77,395.62,26.15
+ORD00108,2025-08-01,CUST0070,South,In-Store,Furniture,Desk,2,161.54,0.2,258.46,213.39,45.07
+ORD00411,2025-08-01,CUST0130,South,In-Store,Technology,Mouse,4,17.39,0.05,66.08,47.33,18.75
+ORD00241,2025-08-02,CUST0141,East,In-Store,Office Supplies,Pen Set,1,5.94,0.05,5.64,3.35,2.29
+ORD00279,2025-08-03,CUST0166,South,Marketplace,Furniture,Filing Cabinet,1,154.42,0.1,138.98,110.53,28.45
+ORD00391,2025-08-04,CUST0027,Central,Marketplace,Technology,Mouse,2,26.2,0.0,52.4,39.95,12.45
+ORD00260,2025-08-04,CUST0127,Central,Marketplace,Office Supplies,Stapler,2,24.57,0.15,41.77,35.63,6.14
+ORD00306,2025-08-05,CUST0021,Central,Online,Home & Kitchen,Water Bottle,2,31.7,0.0,63.4,32.23,31.17
+ORD00002,2025-08-05,CUST0167,Central,In-Store,Technology,Laptop,1,520.27,0.05,494.26,349.01,145.25
+ORD00171,2025-08-06,CUST0021,East,Marketplace,Technology,Headphones,4,142.48,0.05,541.42,335.8,205.62
+ORD00351,2025-08-07,CUST0053,South,Marketplace,Technology,Keyboard,3,81.44,0.05,232.1,125.33,106.77
+ORD00138,2025-08-08,CUST0159,West,Marketplace,Home & Kitchen,Cookware Set,2,104.35,0.2,166.96,112.37,54.59
+ORD00044,2025-08-09,CUST0130,East,Marketplace,Technology,Keyboard,3,65.98,0.0,197.94,155.58,42.36
+ORD00349,2025-08-11,CUST0139,East,Marketplace,Furniture,Office Chair,1,119.36,0.0,119.36,85.59,33.77
+ORD00173,2025-08-11,CUST0174,South,Online,Office Supplies,Notebook,3,2.75,0.0,8.25,6.21,2.04
+ORD00534,2025-08-11,CUST0003,West,Online,Home & Kitchen,Water Bottle,1,40.18,0.1,36.16,27.51,8.65
+ORD00067,2025-08-12,CUST0063,West,Marketplace,Office Supplies,Printer Paper,4,21.89,0.0,87.56,68.28,19.28
+ORD00453,2025-08-14,CUST0093,Central,Marketplace,Furniture,Desk,3,140.06,0.0,420.18,228.39,191.79
+ORD00541,2025-08-14,CUST0029,North,Online,Technology,Monitor,2,179.91,0.1,323.84,277.04,46.8
+ORD00054,2025-08-14,CUST0039,South,In-Store,Technology,Keyboard,1,36.06,0.15,30.65,18.3,12.35
+ORD00284,2025-08-14,CUST0009,West,In-Store,Furniture,Lamp,4,23.19,0.1,83.48,53.91,29.57
+ORD00208,2025-08-15,CUST0070,South,Online,Office Supplies,Stapler,4,10.35,0.0,41.4,27.78,13.62
+ORD00134,2025-08-15,CUST0174,Central,In-Store,Home & Kitchen,Coffee Maker,2,66.26,0.0,132.52,68.61,63.91
+ORD00035,2025-08-15,CUST0140,North,In-Store,Home & Kitchen,Desk Organizer,1,8.41,0.15,7.15,6.62,0.53
+ORD00328,2025-08-16,CUST0119,North,Online,Furniture,Office Chair,4,352.47,0.0,1409.88,697.21,712.67
+ORD00230,2025-08-17,CUST0015,South,Marketplace,Technology,Monitor,2,342.16,0.0,684.32,379.03,305.29
+ORD00221,2025-08-17,CUST0052,Central,Marketplace,Office Supplies,Notebook,1,11.17,0.1,10.05,8.79,1.26
+ORD00330,2025-08-17,CUST0141,West,Online,Furniture,Office Chair,2,268.09,0.1,482.56,348.31,134.25
+ORD00223,2025-08-17,CUST0173,East,Marketplace,Technology,Headphones,2,50.73,0.05,96.39,67.98,28.41
+ORD00430,2025-08-17,CUST0025,South,Marketplace,Home & Kitchen,Water Bottle,3,18.97,0.0,56.91,28.91,28.0
+ORD00529,2025-08-18,CUST0078,North,In-Store,Home & Kitchen,Water Bottle,6,34.87,0.05,198.76,137.25,61.51
+ORD00323,2025-08-19,CUST0079,West,In-Store,Home & Kitchen,Coffee Maker,2,93.94,0.2,150.3,103.45,46.85
+ORD00080,2025-08-19,CUST0019,South,In-Store,Home & Kitchen,Coffee Maker,1,39.73,0.0,39.73,30.68,9.05
+ORD00322,2025-08-20,CUST0040,North,Online,Office Supplies,Pen Set,1,4.12,0.1,3.71,2.8,0.91
+ORD00563,2025-08-20,CUST0035,West,In-Store,Technology,Mouse,3,16.79,0.15,42.81,36.1,6.71
+ORD00326,2025-08-20,CUST0057,South,Online,Furniture,Office Chair,4,223.99,0.0,895.96,433.7,462.26
+ORD00178,2025-08-20,CUST0171,East,Marketplace,Furniture,Lamp,4,94.78,0.2,303.3,309.15,-5.85
+ORD00347,2025-08-20,CUST0044,West,Online,Technology,Laptop,1,671.18,0.2,536.94,339.1,197.84
+ORD00007,2025-08-21,CUST0166,North,Marketplace,Office Supplies,Pen Set,1,8.55,0.0,8.55,6.83,1.72
+ORD00092,2025-08-22,CUST0018,East,In-Store,Furniture,Lamp,2,30.25,0.1,54.45,31.85,22.6
+ORD00398,2025-08-22,CUST0043,North,Online,Office Supplies,Stapler,2,22.25,0.05,42.27,34.77,7.5
+ORD00122,2025-08-23,CUST0114,North,Online,Technology,Laptop,4,1198.94,0.05,4555.97,2478.0,2077.97
+ORD00283,2025-08-23,CUST0094,Central,Online,Home & Kitchen,Desk Organizer,2,29.45,0.0,58.9,39.15,19.75
+ORD00204,2025-08-24,CUST0178,East,Marketplace,Office Supplies,Folders,3,6.61,0.1,17.85,13.86,3.99
+ORD00005,2025-08-24,CUST0093,Central,Online,Technology,Headphones,1,40.37,0.1,36.33,31.53,4.8
+ORD00270,2025-08-26,CUST0022,North,Marketplace,Furniture,Bookshelf,2,259.53,0.0,519.06,411.61,107.45
+ORD00493,2025-08-26,CUST0104,North,Online,Furniture,Desk,5,359.83,0.05,1709.19,1238.15,471.04
+ORD00508,2025-08-26,CUST0101,North,Marketplace,Technology,Keyboard,3,24.18,0.0,72.54,41.39,31.15
+ORD00239,2025-08-27,CUST0121,East,Online,Office Supplies,Printer Paper,2,9.49,0.05,18.03,9.75,8.28
+ORD00509,2025-08-29,CUST0064,West,In-Store,Furniture,Desk,1,459.32,0.0,459.32,222.44,236.88
+ORD00502,2025-08-29,CUST0075,Central,Online,Technology,Headphones,2,209.66,0.0,419.32,262.64,156.68
+ORD00450,2025-08-29,CUST0163,East,Marketplace,Home & Kitchen,Water Bottle,3,9.48,0.0,28.44,23.02,5.42
+ORD00086,2025-08-29,CUST0178,West,In-Store,Office Supplies,Stapler,3,13.33,0.15,33.99,23.68,10.31
+ORD00404,2025-08-29,CUST0013,Central,Online,Home & Kitchen,Storage Box,2,14.12,0.0,28.24,22.87,5.37
+ORD00203,2025-08-30,CUST0097,East,Online,Technology,Monitor,2,275.6,0.2,440.96,354.23,86.73
+ORD00574,2025-08-30,CUST0179,South,Marketplace,Furniture,Office Chair,1,291.44,0.05,276.87,191.88,84.99
+ORD00210,2025-08-30,CUST0122,West,Marketplace,Technology,Monitor,2,121.55,0.15,206.63,150.32,56.31
+ORD00021,2025-08-31,CUST0109,West,In-Store,Furniture,Lamp,1,79.6,0.0,79.6,49.87,29.73
+ORD00377,2025-09-01,CUST0076,North,In-Store,Office Supplies,Folders,1,5.9,0.1,5.31,3.95,1.36
+ORD00053,2025-09-01,CUST0125,South,In-Store,Home & Kitchen,Coffee Maker,4,144.01,0.0,576.04,428.81,147.23
+ORD00384,2025-09-02,CUST0083,Central,Online,Home & Kitchen,Water Bottle,1,9.4,0.0,9.4,4.56,4.84
+ORD00129,2025-09-04,CUST0058,West,Marketplace,Furniture,Office Chair,2,191.53,0.0,383.06,220.15,162.91
+ORD00109,2025-09-04,CUST0058,West,Marketplace,Office Supplies,Printer Paper,2,20.89,0.0,41.78,30.77,11.01
+ORD00461,2025-09-04,CUST0111,Central,In-Store,Furniture,Filing Cabinet,1,188.64,0.15,160.34,134.07,26.27
+ORD00205,2025-09-05,CUST0074,South,Marketplace,Furniture,Desk,1,218.81,0.15,185.99,178.1,7.89
+ORD00533,2025-09-07,CUST0015,East,In-Store,Technology,Mouse,1,48.54,0.1,43.69,29.6,14.09
+ORD00026,2025-09-07,CUST0081,North,Online,Furniture,Desk,6,225.72,0.05,1286.6,899.74,386.86
+ORD00242,2025-09-08,CUST0126,South,Marketplace,Home & Kitchen,Cookware Set,3,79.49,0.0,238.47,172.87,65.6
+ORD00364,2025-09-09,CUST0069,West,Marketplace,Technology,Monitor,6,160.32,0.05,913.82,731.81,182.01
+ORD00214,2025-09-10,CUST0118,East,Marketplace,Furniture,Filing Cabinet,1,172.96,0.0,172.96,92.58,80.38
+ORD00346,2025-09-10,CUST0167,South,Online,Home & Kitchen,Coffee Maker,1,114.17,0.05,108.46,88.34,20.12
+ORD00569,2025-09-10,CUST0154,North,Online,Furniture,Desk,2,339.66,0.0,679.32,344.41,334.91
+ORD00233,2025-09-11,CUST0107,West,Online,Technology,Keyboard,3,90.5,0.1,244.35,159.74,84.61
+ORD00577,2025-09-12,CUST0050,North,Online,Home & Kitchen,Cookware Set,4,210.64,0.0,842.56,487.65,354.91
+ORD00249,2025-09-13,CUST0011,South,Online,Home & Kitchen,Coffee Maker,4,117.05,0.0,468.2,308.81,159.39
+ORD00192,2025-09-13,CUST0118,South,Online,Home & Kitchen,Cookware Set,2,225.21,0.0,450.42,276.42,174.0
+ORD00587,2025-09-14,CUST0084,South,Online,Furniture,Desk,2,242.65,0.15,412.5,284.15,128.35
+ORD00368,2025-09-16,CUST0122,Central,Marketplace,Home & Kitchen,Water Bottle,1,33.2,0.05,31.54,20.97,10.57
+ORD00199,2025-09-17,CUST0107,Central,In-Store,Home & Kitchen,Desk Organizer,4,20.59,0.0,82.36,58.4,23.96
+ORD00144,2025-09-17,CUST0166,North,Marketplace,Technology,Keyboard,1,53.55,0.0,53.55,30.93,22.62
+ORD00041,2025-09-18,CUST0149,East,Online,Home & Kitchen,Desk Organizer,1,21.91,0.15,18.62,12.46,6.16
+ORD00472,2025-09-19,CUST0041,North,In-Store,Furniture,Filing Cabinet,1,107.29,0.0,107.29,51.51,55.78
+ORD00415,2025-09-20,CUST0052,South,Marketplace,Office Supplies,Folders,3,13.19,0.15,33.63,27.5,6.13
+ORD00121,2025-09-20,CUST0169,Central,In-Store,Technology,Headphones,5,123.25,0.0,616.25,459.91,156.34
+ORD00048,2025-09-21,CUST0051,South,Online,Office Supplies,Notebook,3,10.18,0.1,27.49,16.99,10.5
+ORD00290,2025-09-21,CUST0024,West,Marketplace,Office Supplies,Printer Paper,2,13.55,0.05,25.75,21.01,4.74
+ORD00216,2025-09-21,CUST0064,North,In-Store,Office Supplies,Notebook,1,6.01,0.2,4.81,3.86,0.95
+ORD00190,2025-09-21,CUST0013,East,In-Store,Technology,Keyboard,1,36.61,0.05,34.78,19.33,15.45
+ORD00366,2025-09-21,CUST0146,North,Online,Furniture,Office Chair,2,180.23,0.0,360.46,277.35,83.11
+ORD00588,2025-09-22,CUST0002,East,Online,Furniture,Desk,2,392.58,0.1,706.64,516.32,190.32
+ORD00259,2025-09-24,CUST0043,West,In-Store,Furniture,Lamp,1,28.56,0.0,28.56,15.13,13.43
+ORD00320,2025-09-24,CUST0164,West,Online,Home & Kitchen,Coffee Maker,3,101.48,0.05,289.22,198.45,90.77
+ORD00232,2025-09-24,CUST0045,West,Marketplace,Furniture,Lamp,1,39.04,0.15,33.18,30.42,2.76
+ORD00360,2025-09-25,CUST0026,North,Marketplace,Home & Kitchen,Water Bottle,1,23.33,0.05,22.16,17.21,4.95
+ORD00135,2025-09-27,CUST0055,South,In-Store,Office Supplies,Notebook,6,4.21,0.0,25.26,13.88,11.38
+ORD00157,2025-09-28,CUST0165,West,In-Store,Home & Kitchen,Storage Box,4,54.93,0.0,219.72,124.14,95.58
+ORD00032,2025-09-28,CUST0030,North,Marketplace,Technology,Mouse,3,27.96,0.15,71.3,44.09,27.21
+ORD00319,2025-09-29,CUST0024,North,Online,Furniture,Lamp,1,54.36,0.2,43.49,39.25,4.24
+ORD00299,2025-09-29,CUST0039,West,Marketplace,Technology,Mouse,2,49.0,0.1,88.2,67.97,20.23
+ORD00132,2025-09-29,CUST0146,Central,Online,Furniture,Lamp,2,48.59,0.0,97.18,70.49,26.69
+ORD00065,2025-09-30,CUST0126,North,In-Store,Home & Kitchen,Coffee Maker,3,45.0,0.0,135.0,84.08,50.92
+ORD00599,2025-09-30,CUST0124,West,Online,Home & Kitchen,Cookware Set,1,166.06,0.0,166.06,88.69,77.37
+ORD00431,2025-10-01,CUST0027,South,Marketplace,Technology,Laptop,3,608.09,0.0,1824.27,1300.77,523.5
+ORD00583,2025-10-02,CUST0017,South,In-Store,Technology,Monitor,1,293.22,0.15,249.24,220.08,29.16
+ORD00543,2025-10-03,CUST0037,North,In-Store,Furniture,Desk,3,323.11,0.05,920.86,670.62,250.24
+ORD00094,2025-10-03,CUST0049,South,Marketplace,Home & Kitchen,Coffee Maker,3,83.2,0.0,249.6,198.97,50.63
+ORD00476,2025-10-03,CUST0118,West,Marketplace,Office Supplies,Stapler,2,29.15,0.1,52.47,43.0,9.47
+ORD00593,2025-10-04,CUST0014,North,In-Store,Home & Kitchen,Water Bottle,2,12.81,0.1,23.06,13.22,9.84
+ORD00499,2025-10-04,CUST0153,West,Marketplace,Office Supplies,Folders,6,7.78,0.1,42.01,25.22,16.79
+ORD00517,2025-10-05,CUST0154,Central,Online,Home & Kitchen,Storage Box,2,41.17,0.0,82.34,52.64,29.7
+ORD00552,2025-10-05,CUST0038,Central,Online,Furniture,Desk,3,230.51,0.05,656.95,363.73,293.22
+ORD00318,2025-10-05,CUST0079,North,Online,Office Supplies,Notebook,1,11.51,0.1,10.36,8.85,1.51
+ORD00228,2025-10-06,CUST0049,North,Online,Home & Kitchen,Desk Organizer,1,23.93,0.05,22.73,12.75,9.98
+ORD00165,2025-10-06,CUST0005,East,Online,Technology,Headphones,1,195.3,0.0,195.3,118.53,76.77
+ORD00057,2025-10-07,CUST0174,West,Marketplace,Furniture,Lamp,2,32.55,0.0,65.1,38.69,26.41
+ORD00570,2025-10-08,CUST0015,East,Online,Office Supplies,Folders,4,10.17,0.0,40.68,22.08,18.6
+ORD00440,2025-10-09,CUST0149,West,In-Store,Home & Kitchen,Desk Organizer,3,11.07,0.0,33.21,18.17,15.04
+ORD00405,2025-10-09,CUST0023,West,In-Store,Home & Kitchen,Cookware Set,1,212.51,0.05,201.88,143.41,58.47
+ORD00033,2025-10-11,CUST0068,Central,In-Store,Furniture,Bookshelf,1,112.76,0.0,112.76,80.48,32.28
+ORD00479,2025-10-11,CUST0175,South,In-Store,Furniture,Lamp,1,40.11,0.05,38.1,21.75,16.35
+ORD00158,2025-10-11,CUST0132,South,In-Store,Technology,Mouse,1,61.07,0.1,54.96,34.98,19.98
+ORD00474,2025-10-14,CUST0104,Central,Online,Office Supplies,Printer Paper,1,24.23,0.05,23.02,13.23,9.79
+ORD00579,2025-10-14,CUST0077,Central,Marketplace,Furniture,Office Chair,3,275.78,0.0,827.34,416.21,411.13
+ORD00235,2025-10-15,CUST0166,North,In-Store,Home & Kitchen,Cookware Set,1,159.24,0.0,159.24,87.44,71.8
+ORD00252,2025-10-16,CUST0036,North,Marketplace,Furniture,Filing Cabinet,2,253.62,0.15,431.15,300.69,130.46
+ORD00077,2025-10-16,CUST0159,South,Marketplace,Office Supplies,Notebook,1,11.94,0.1,10.75,8.19,2.56
+ORD00264,2025-10-16,CUST0119,South,In-Store,Furniture,Filing Cabinet,1,289.4,0.1,260.46,141.56,118.9
+ORD00466,2025-10-17,CUST0143,West,Online,Office Supplies,Folders,3,5.58,0.1,15.07,10.39,4.68
+ORD00046,2025-10-19,CUST0149,Central,Marketplace,Office Supplies,Stapler,1,18.7,0.0,18.7,11.71,6.99
+ORD00195,2025-10-19,CUST0072,Central,Marketplace,Furniture,Bookshelf,1,168.41,0.05,159.99,124.61,35.38
+ORD00531,2025-10-20,CUST0150,South,Online,Furniture,Office Chair,2,100.94,0.0,201.88,122.1,79.78
+ORD00202,2025-10-21,CUST0106,Central,Marketplace,Technology,Monitor,1,125.68,0.0,125.68,89.83,35.85
+ORD00329,2025-10-21,CUST0048,East,In-Store,Home & Kitchen,Cookware Set,2,146.71,0.05,278.75,176.15,102.6
+ORD00402,2025-10-23,CUST0064,West,In-Store,Furniture,Bookshelf,3,161.42,0.05,460.05,303.71,156.34
+ORD00311,2025-10-23,CUST0095,South,In-Store,Technology,Headphones,2,113.76,0.05,216.14,153.06,63.08
+ORD00485,2025-10-25,CUST0069,West,Marketplace,Technology,Keyboard,4,45.84,0.0,183.36,104.4,78.96
+ORD00071,2025-10-25,CUST0091,West,In-Store,Office Supplies,Stapler,2,18.84,0.2,30.14,25.14,5.0
+ORD00150,2025-10-26,CUST0022,East,Marketplace,Furniture,Bookshelf,3,118.6,0.1,320.22,186.38,133.84
+ORD00193,2025-10-26,CUST0121,East,Marketplace,Office Supplies,Notebook,2,2.51,0.15,4.27,3.53,0.74
+ORD00036,2025-10-26,CUST0011,East,Online,Furniture,Lamp,1,25.2,0.15,21.42,18.92,2.5
+ORD00544,2025-10-26,CUST0014,West,Marketplace,Technology,Keyboard,1,31.11,0.1,28.0,21.47,6.53
+ORD00056,2025-10-27,CUST0108,Central,Marketplace,Technology,Mouse,1,32.82,0.0,32.82,24.16,8.66
+ORD00027,2025-10-27,CUST0048,North,Marketplace,Home & Kitchen,Desk Organizer,2,46.61,0.0,93.22,60.84,32.38
+ORD00334,2025-10-27,CUST0015,South,Marketplace,Furniture,Desk,3,149.05,0.0,447.15,338.73,108.42
+ORD00114,2025-10-28,CUST0072,North,Marketplace,Furniture,Lamp,4,67.39,0.05,256.08,215.45,40.63
+ORD00118,2025-10-28,CUST0038,South,Marketplace,Furniture,Desk,1,238.14,0.15,202.42,114.54,87.88
+ORD00355,2025-10-29,CUST0176,West,Marketplace,Furniture,Filing Cabinet,2,83.42,0.05,158.5,134.86,23.64
+ORD00278,2025-10-30,CUST0037,Central,In-Store,Technology,Monitor,1,213.96,0.0,213.96,129.86,84.1
+ORD00321,2025-10-31,CUST0101,East,In-Store,Technology,Headphones,1,154.18,0.0,154.18,118.61,35.57
+ORD00145,2025-11-01,CUST0147,South,In-Store,Home & Kitchen,Cookware Set,5,163.97,0.1,737.87,404.96,332.91
+ORD00052,2025-11-01,CUST0141,West,Online,Office Supplies,Stapler,3,20.32,0.05,57.91,46.48,11.43
+ORD00536,2025-11-01,CUST0122,Central,Marketplace,Technology,Monitor,3,249.58,0.0,748.74,444.97,303.77
+ORD00425,2025-11-02,CUST0019,East,Marketplace,Technology,Mouse,1,60.59,0.1,54.53,40.42,14.11
+ORD00514,2025-11-02,CUST0087,North,Online,Furniture,Bookshelf,1,213.01,0.05,202.36,151.92,50.44
+ORD00069,2025-11-02,CUST0126,Central,Online,Office Supplies,Folders,5,2.13,0.0,10.65,7.72,2.93
+ORD00258,2025-11-02,CUST0144,South,Marketplace,Office Supplies,Stapler,2,5.31,0.1,9.56,7.71,1.85
+ORD00438,2025-11-02,CUST0089,South,In-Store,Home & Kitchen,Desk Organizer,1,31.0,0.0,31.0,22.69,8.31
+ORD00197,2025-11-05,CUST0133,West,Online,Home & Kitchen,Desk Organizer,1,9.69,0.1,8.72,7.3,1.42
+ORD00343,2025-11-05,CUST0020,South,In-Store,Office Supplies,Folders,2,4.87,0.15,8.28,5.14,3.14
+ORD00146,2025-11-06,CUST0088,North,Marketplace,Home & Kitchen,Desk Organizer,1,14.34,0.0,14.34,11.27,3.07
+ORD00407,2025-11-06,CUST0014,South,In-Store,Office Supplies,Folders,3,9.31,0.05,26.53,16.64,9.89
+ORD00189,2025-11-07,CUST0103,South,In-Store,Furniture,Bookshelf,1,231.6,0.2,185.28,138.36,46.92
+ORD00460,2025-11-07,CUST0129,North,Online,Technology,Monitor,2,262.76,0.0,525.52,392.31,133.21
+ORD00198,2025-11-07,CUST0077,Central,In-Store,Furniture,Bookshelf,1,245.93,0.0,245.93,169.6,76.33
+ORD00277,2025-11-09,CUST0173,East,Marketplace,Home & Kitchen,Desk Organizer,2,12.8,0.05,24.32,13.79,10.53
+ORD00068,2025-11-09,CUST0067,East,In-Store,Home & Kitchen,Coffee Maker,4,39.16,0.0,156.64,86.48,70.16
+ORD00410,2025-11-09,CUST0049,East,Online,Furniture,Desk,4,157.09,0.0,628.36,477.77,150.59
+ORD00286,2025-11-09,CUST0146,East,Marketplace,Home & Kitchen,Storage Box,3,43.89,0.1,118.5,99.26,19.24
+ORD00196,2025-11-09,CUST0094,South,Online,Technology,Monitor,2,412.52,0.1,742.54,491.14,251.4
+ORD00560,2025-11-10,CUST0063,Central,Marketplace,Technology,Mouse,2,16.56,0.15,28.15,25.78,2.37
+ORD00181,2025-11-10,CUST0105,Central,Online,Technology,Laptop,6,681.97,0.1,3682.64,2695.43,987.21
+ORD00191,2025-11-12,CUST0081,South,Online,Home & Kitchen,Storage Box,5,62.95,0.1,283.28,251.01,32.27
+ORD00209,2025-11-12,CUST0026,West,In-Store,Furniture,Desk,5,129.8,0.0,649.0,362.9,286.1
+ORD00392,2025-11-13,CUST0068,Central,Online,Technology,Keyboard,1,26.78,0.0,26.78,14.67,12.11
+ORD00542,2025-11-14,CUST0006,East,Online,Furniture,Bookshelf,3,57.82,0.0,173.46,109.8,63.66
+ORD00357,2025-11-14,CUST0055,South,Online,Furniture,Office Chair,2,365.28,0.15,620.98,392.19,228.79
+ORD00130,2025-11-15,CUST0180,East,In-Store,Technology,Mouse,4,65.75,0.0,263.0,142.37,120.63
+ORD00186,2025-11-16,CUST0148,East,Marketplace,Office Supplies,Folders,4,2.54,0.0,10.16,8.15,2.01
+ORD00081,2025-11-17,CUST0037,North,Online,Furniture,Lamp,1,24.18,0.0,24.18,13.79,10.39
+ORD00498,2025-11-17,CUST0084,West,In-Store,Furniture,Desk,1,315.43,0.0,315.43,189.68,125.75
+ORD00143,2025-11-18,CUST0152,North,In-Store,Office Supplies,Pen Set,2,9.6,0.1,17.28,14.41,2.87
+ORD00142,2025-11-18,CUST0145,Central,In-Store,Home & Kitchen,Cookware Set,3,199.66,0.05,569.03,475.72,93.31
+ORD00244,2025-11-19,CUST0159,Central,In-Store,Furniture,Office Chair,1,295.08,0.05,280.33,179.08,101.25
+ORD00380,2025-11-21,CUST0077,West,Online,Technology,Headphones,2,198.44,0.15,337.35,242.0,95.35
+ORD00528,2025-11-21,CUST0066,East,In-Store,Home & Kitchen,Coffee Maker,2,123.22,0.0,246.44,182.45,63.99
+ORD00500,2025-11-22,CUST0059,North,In-Store,Home & Kitchen,Desk Organizer,2,34.87,0.15,59.28,44.9,14.38
+ORD00008,2025-11-22,CUST0164,Central,Online,Furniture,Filing Cabinet,1,230.41,0.0,230.41,188.12,42.29
+ORD00001,2025-11-24,CUST0140,North,Marketplace,Technology,Laptop,1,1006.16,0.0,1006.16,518.02,488.14
+ORD00389,2025-11-24,CUST0006,North,Marketplace,Office Supplies,Folders,2,10.1,0.0,20.2,10.44,9.76
+ORD00471,2025-11-24,CUST0050,North,Marketplace,Home & Kitchen,Cookware Set,4,47.2,0.15,160.48,123.89,36.59
+ORD00117,2025-11-24,CUST0018,Central,Online,Technology,Laptop,1,1040.1,0.0,1040.1,698.9,341.2
+ORD00374,2025-11-24,CUST0039,Central,Online,Office Supplies,Printer Paper,3,9.48,0.15,24.17,16.54,7.63
+ORD00353,2025-11-25,CUST0113,West,In-Store,Home & Kitchen,Storage Box,2,30.41,0.0,60.82,30.12,30.7
+ORD00243,2025-11-25,CUST0002,West,Online,Technology,Mouse,4,12.03,0.15,40.9,34.03,6.87
+ORD00059,2025-11-26,CUST0117,East,In-Store,Home & Kitchen,Storage Box,1,57.68,0.0,57.68,34.11,23.57
+ORD00365,2025-11-27,CUST0133,East,Online,Technology,Monitor,5,252.51,0.0,1262.55,813.99,448.56
+ORD00439,2025-11-27,CUST0172,Central,Online,Furniture,Desk,2,181.76,0.0,363.52,188.66,174.86
+ORD00141,2025-11-27,CUST0168,North,Online,Furniture,Desk,1,150.09,0.0,150.09,79.84,70.25
+ORD00147,2025-11-27,CUST0041,East,In-Store,Furniture,Office Chair,2,161.85,0.05,307.51,212.91,94.6
+ORD00455,2025-11-28,CUST0132,North,Marketplace,Home & Kitchen,Water Bottle,1,17.02,0.05,16.17,8.95,7.22
+ORD00112,2025-11-28,CUST0010,East,In-Store,Technology,Headphones,1,202.33,0.0,202.33,106.73,95.6
+ORD00091,2025-11-28,CUST0124,West,Online,Furniture,Lamp,1,89.61,0.1,80.65,55.67,24.98
+ORD00268,2025-11-28,CUST0111,North,Online,Technology,Mouse,3,69.02,0.0,207.06,152.38,54.68
+ORD00295,2025-11-29,CUST0168,North,Marketplace,Furniture,Office Chair,1,204.94,0.1,184.45,114.69,69.76
+ORD00546,2025-11-29,CUST0125,Central,Marketplace,Home & Kitchen,Storage Box,2,63.89,0.1,115.0,100.6,14.4
+ORD00505,2025-11-29,CUST0117,Central,In-Store,Office Supplies,Stapler,1,9.7,0.0,9.7,5.02,4.68
+ORD00557,2025-11-29,CUST0009,West,Online,Office Supplies,Pen Set,2,15.78,0.0,31.56,17.22,14.34
+ORD00024,2025-11-30,CUST0055,West,Online,Technology,Laptop,4,1144.78,0.0,4579.12,2954.07,1625.05
+ORD00523,2025-12-02,CUST0107,East,Marketplace,Home & Kitchen,Water Bottle,3,25.32,0.0,75.96,55.66,20.3
+ORD00465,2025-12-02,CUST0067,Central,In-Store,Furniture,Bookshelf,1,138.81,0.05,131.87,94.26,37.61
+ORD00029,2025-12-03,CUST0172,East,In-Store,Office Supplies,Printer Paper,3,8.29,0.0,24.87,15.28,9.59
+ORD00088,2025-12-03,CUST0114,North,Online,Home & Kitchen,Cookware Set,2,56.11,0.1,101.0,72.89,28.11
+ORD00245,2025-12-04,CUST0071,Central,In-Store,Home & Kitchen,Water Bottle,2,8.24,0.0,16.48,10.88,5.6
+ORD00105,2025-12-04,CUST0156,West,In-Store,Home & Kitchen,Coffee Maker,4,36.17,0.1,130.21,117.34,12.87
+ORD00442,2025-12-04,CUST0044,North,In-Store,Office Supplies,Folders,2,3.98,0.1,7.16,6.42,0.74
+ORD00229,2025-12-05,CUST0026,Central,Online,Home & Kitchen,Desk Organizer,4,40.17,0.0,160.68,88.38,72.3
+ORD00436,2025-12-05,CUST0140,East,Marketplace,Technology,Headphones,1,55.48,0.1,49.93,41.66,8.27
+ORD00457,2025-12-05,CUST0057,West,Marketplace,Office Supplies,Notebook,2,4.17,0.05,7.92,5.37,2.55
+ORD00087,2025-12-06,CUST0104,Central,Online,Home & Kitchen,Desk Organizer,1,9.54,0.0,9.54,4.96,4.58
+ORD00403,2025-12-06,CUST0165,South,Marketplace,Home & Kitchen,Storage Box,2,56.15,0.2,89.84,55.99,33.85
+ORD00128,2025-12-07,CUST0055,South,Marketplace,Home & Kitchen,Water Bottle,2,43.83,0.0,87.66,59.3,28.36
+ORD00291,2025-12-07,CUST0127,East,In-Store,Office Supplies,Notebook,2,9.96,0.2,15.94,15.15,0.79
+ORD00428,2025-12-09,CUST0011,East,In-Store,Office Supplies,Stapler,3,11.01,0.15,28.08,18.59,9.49
+ORD00137,2025-12-09,CUST0020,East,Marketplace,Office Supplies,Notebook,3,5.97,0.05,17.01,11.4,5.61
+ORD00152,2025-12-10,CUST0125,South,Online,Home & Kitchen,Desk Organizer,2,23.2,0.0,46.4,25.65,20.75
+ORD00572,2025-12-11,CUST0117,Central,In-Store,Office Supplies,Folders,3,10.59,0.05,30.18,21.32,8.86
+ORD00420,2025-12-12,CUST0178,North,In-Store,Furniture,Filing Cabinet,2,155.56,0.1,280.01,222.97,57.04
+ORD00207,2025-12-13,CUST0074,North,In-Store,Home & Kitchen,Cookware Set,5,212.77,0.1,957.47,615.71,341.76
+ORD00013,2025-12-15,CUST0041,West,Online,Technology,Mouse,3,55.05,0.0,165.15,95.75,69.4
+ORD00423,2025-12-16,CUST0072,Central,In-Store,Technology,Monitor,3,408.74,0.0,1226.22,605.53,620.69
+ORD00037,2025-12-16,CUST0040,South,Online,Furniture,Office Chair,2,192.57,0.15,327.37,312.39,14.98
+ORD00188,2025-12-17,CUST0119,South,In-Store,Home & Kitchen,Coffee Maker,3,100.76,0.0,302.28,187.81,114.47
+ORD00009,2025-12-17,CUST0055,Central,Marketplace,Office Supplies,Notebook,1,4.29,0.0,4.29,2.45,1.84
+ORD00448,2025-12-17,CUST0038,West,In-Store,Furniture,Filing Cabinet,1,100.88,0.05,95.84,67.83,28.01
+ORD00596,2025-12-17,CUST0094,West,Online,Home & Kitchen,Cookware Set,1,92.5,0.15,78.62,63.8,14.82
+ORD00589,2025-12-18,CUST0080,North,Marketplace,Technology,Keyboard,1,53.95,0.05,51.25,37.98,13.27
+ORD00300,2025-12-18,CUST0099,East,In-Store,Home & Kitchen,Storage Box,1,14.77,0.1,13.29,10.05,3.24
+ORD00200,2025-12-19,CUST0148,South,Marketplace,Technology,Mouse,6,38.48,0.1,207.79,171.75,36.04
+ORD00559,2025-12-19,CUST0098,East,In-Store,Office Supplies,Stapler,2,27.19,0.1,48.94,37.34,11.6
+ORD00064,2025-12-20,CUST0145,North,In-Store,Furniture,Office Chair,1,292.19,0.1,262.97,220.28,42.69
+ORD00070,2025-12-20,CUST0063,East,Marketplace,Home & Kitchen,Cookware Set,1,136.88,0.0,136.88,84.52,52.36
+ORD00018,2025-12-20,CUST0116,North,Online,Furniture,Bookshelf,3,136.79,0.0,410.37,322.5,87.87
+ORD00098,2025-12-21,CUST0082,West,Marketplace,Home & Kitchen,Water Bottle,4,39.52,0.15,134.37,96.3,38.07
+ORD00250,2025-12-21,CUST0145,North,Online,Home & Kitchen,Coffee Maker,1,41.75,0.15,35.49,32.81,2.68
+ORD00055,2025-12-22,CUST0053,West,In-Store,Furniture,Desk,2,135.05,0.05,256.6,167.83,88.77
+ORD00399,2025-12-23,CUST0113,South,Marketplace,Technology,Monitor,5,151.11,0.05,717.77,508.82,208.95
+ORD00272,2025-12-23,CUST0088,North,Marketplace,Home & Kitchen,Coffee Maker,1,44.74,0.1,40.27,21.82,18.45
+ORD00463,2025-12-23,CUST0073,Central,Marketplace,Technology,Headphones,2,51.11,0.0,102.22,78.92,23.3
+ORD00050,2025-12-23,CUST0028,West,Online,Home & Kitchen,Cookware Set,1,126.93,0.1,114.24,99.45,14.79
+ORD00075,2025-12-24,CUST0088,South,Online,Furniture,Lamp,1,23.21,0.0,23.21,14.92,8.29
+ORD00597,2025-12-25,CUST0119,South,In-Store,Office Supplies,Printer Paper,1,13.52,0.05,12.84,8.11,4.73
+ORD00336,2025-12-25,CUST0127,Central,In-Store,Office Supplies,Folders,2,9.33,0.0,18.66,15.23,3.43
+ORD00432,2025-12-26,CUST0023,North,Online,Home & Kitchen,Water Bottle,1,35.63,0.05,33.85,21.12,12.73
+ORD00220,2025-12-26,CUST0153,North,Marketplace,Home & Kitchen,Desk Organizer,4,41.68,0.1,150.05,118.59,31.46
+ORD00006,2025-12-27,CUST0026,West,In-Store,Technology,Laptop,3,945.95,0.2,2270.28,2187.44,82.84
+ORD00422,2025-12-27,CUST0076,West,Online,Office Supplies,Folders,2,9.11,0.1,16.4,14.72,1.68
+ORD00206,2025-12-27,CUST0074,North,Marketplace,Home & Kitchen,Coffee Maker,2,104.57,0.15,177.77,151.7,26.07
+ORD00275,2025-12-27,CUST0138,South,In-Store,Furniture,Desk,3,218.55,0.1,590.09,443.41,146.68
+ORD00177,2025-12-27,CUST0032,South,Online,Home & Kitchen,Storage Box,1,64.8,0.15,55.08,41.93,13.15
+ORD00100,2025-12-27,CUST0015,East,In-Store,Technology,Headphones,1,57.44,0.0,57.44,33.91,23.53
+ORD00339,2025-12-27,CUST0170,West,Marketplace,Furniture,Office Chair,4,335.48,0.2,1073.54,814.57,258.97
+ORD00585,2025-12-28,CUST0078,South,Marketplace,Office Supplies,Notebook,1,4.71,0.15,4.0,2.86,1.14
+ORD00184,2025-12-30,CUST0051,Central,In-Store,Furniture,Bookshelf,2,249.23,0.0,498.46,252.63,245.83
