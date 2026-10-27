@@ -40,5 +40,41 @@ The dashboard can be used to identify higher-revenue regions, compare category p
 - Implement additional profitability metrics.
 - Refresh the dashboard with updated data.
 
+## Dashboard Preview
+
+![Business Performance Dashboard](business_analysis_dashboard.png)
+
+## Key Results
+
+- Total Revenue: 19,425
+- Total Profit: 6,355
+- Total Orders: 10
+- Profit Margin: 32.73%
+
+## Skills Demonstrated
+
+- Power BI dashboard development
+- KPI analysis and data visualization
+- Retail sales performance analysis
+- SQL query writing
+- Business insights and recommendations
+- GitHub project documentation
+
+## Project Files
+
+- `data/sales_data.csv` — Sample retail sales dataset
+- `sql/sales_analysis.sql` — SQL analysis queries
+- `docs/insights.md` — Business insights and recommendations
+- `dashboard/dashboard_screenshot.png` — Dashboard screenshot
+
+*Note: The dataset is illustrative and contains sample transactions created for this project.*
+
+## Future Improvements
+
+- Analyze a larger real-world dataset
+- Add year-over-year comparisons
+- Explore customer segments and product profitability
+
+
 ## Author
 Student project — Business Intelligence and Data Analytics
